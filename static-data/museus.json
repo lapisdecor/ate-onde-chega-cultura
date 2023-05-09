@@ -1883,6 +1883,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.260927079 39.090646353)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q118206896"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "F\u00e1brica das Hist\u00f3rias \u2013 Casa Jaime Umbelino",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.534505 37.130648)"
                 },
                 "item": {
@@ -2164,22 +2180,6 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Igreja de S\u00e3o Vicente de Fora",
-                    "xml:lang": "pt"
-                }
-            },
-            {
-                "geo": {
-                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
-                    "type": "literal",
-                    "value": "Point(-9.25913889 39.09015556)"
-                },
-                "item": {
-                    "type": "uri",
-                    "value": "http://www.wikidata.org/entity/Q1954356"
-                },
-                "itemLabel": {
-                    "type": "literal",
-                    "value": "Igreja e Convento da Gra\u00e7a",
                     "xml:lang": "pt"
                 }
             },
@@ -5412,6 +5412,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Oficina de Artes Manuel Cargaleiro",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.031032 38.656253)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q118215623"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Palacete do Morgado da Casa da Cova",
                     "xml:lang": "pt"
                 }
             },
