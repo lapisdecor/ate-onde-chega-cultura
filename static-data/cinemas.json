@@ -204,6 +204,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.674589 39.65514)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q84612535"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casa de Artes e Cultura do Tejo",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.118917 38.058083)"
                 },
                 "item": {
@@ -332,6 +348,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-7.49007 39.82368)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q92096465"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cine-Teatro Avenida",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.60694444 41.14556111)"
                 },
                 "item": {
@@ -396,6 +428,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.469904 38.79707)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q98716414"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cine-Teatro Gomes da Silva",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.970401 38.705936)"
                 },
                 "item": {
@@ -437,6 +485,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Cine-Teatro Messias",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.576974 39.654326)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q120970074"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cine-Teatro Municipal de Our\u00e9m",
                     "xml:lang": "pt"
                 }
             },
@@ -652,6 +716,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.535598 39.479615)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q122233607"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cine-Teatro Virg\u00ednia",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.26566 40.53846)"
                 },
                 "item": {
@@ -684,6 +764,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.48054 39.35883)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q9761511"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cine-Teatro da Santa Casa da Miseric\u00f3rdia da Chamusca",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.478318 40.690647)"
                 },
                 "item": {
@@ -693,6 +789,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Cine-Teatro de Albergaria-a-Velha",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.188633 39.471349)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q122643267"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cine-Teatro de Alferrarede",
                     "xml:lang": "pt"
                 }
             },
@@ -869,6 +981,38 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Cine-Teatro de Ponte de S\u00f4r",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.535722 37.136278)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q126947198"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cine-Teatro de Portim\u00e3o",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.937093 39.336521)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q129265445"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cine-Teatro de Rio Maior",
                     "xml:lang": "pt"
                 }
             },
@@ -1100,6 +1244,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.423555555 41.549666666)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q89602211"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cinema S\u00e3o Geraldo",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.146543 38.720351)"
                 },
                 "item": {
@@ -1164,6 +1324,38 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-9.41582489 38.798252105)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q98558136"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cineteatro de Galamares",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-7.760702 40.615972)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q98309528"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cineteatro de Mangualde",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-7.660407 37.639859)"
                 },
                 "item": {
@@ -1221,6 +1413,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Coliseu do Porto",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-9.157642 38.682853)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q97097702"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Edif\u00edcio do Cinema da Sociedade Filarm\u00f3nica Incr\u00edvel Almadense (SFIA)",
                     "xml:lang": "pt"
                 }
             },
