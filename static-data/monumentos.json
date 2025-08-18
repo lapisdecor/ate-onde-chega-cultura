@@ -7053,6 +7053,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.400818 40.30645)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q66942323"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Cruzeiro do Bot\u00e3o",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.142136 40.772258)"
                 },
                 "item": {
@@ -17932,7 +17948,7 @@
             {
                 "geo": {
                     "type": "uri",
-                    "value": "http://www.wikidata.org/.well-known/genid/7e65d7b6b38bbf5dbd289261c98d4783"
+                    "value": "http://www.wikidata.org/.well-known/genid/39814f3442b2d8e19cd91b6c22859fee"
                 },
                 "item": {
                     "type": "uri",
