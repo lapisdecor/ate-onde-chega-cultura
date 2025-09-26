@@ -12,6 +12,21 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.8884 37.0627)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q105090962"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Q105090962"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.626736111 41.152491666)"
                 },
                 "item": {
@@ -177,6 +192,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.461568 38.041667)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q56294935"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Anta do Monte Ser\u00f4dio",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-9.390282878 38.787437316)"
                 },
                 "item": {
@@ -313,7 +344,7 @@
                 },
                 "itemLabel": {
                     "type": "literal",
-                    "value": "Monument to Navigators Lacobrigenses",
+                    "value": "Monument to Navigators from Lagos",
                     "xml:lang": "en"
                 }
             },
@@ -17625,6 +17656,22 @@
                 "itemLabel": {
                     "type": "literal",
                     "value": "Pelourinho de Matan\u00e7a",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
+                    "value": "Point(-8.6890767 41.1865522)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q136377941"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Pelourinho de Matosinhos",
                     "xml:lang": "pt"
                 }
             },
