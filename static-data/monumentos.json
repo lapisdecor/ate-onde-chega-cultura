@@ -3760,6 +3760,22 @@
                 "geo": {
                     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
                     "type": "literal",
+                    "value": "Point(-8.699609863 41.188083923)"
+                },
+                "item": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q122842370"
+                },
+                "itemLabel": {
+                    "type": "literal",
+                    "value": "Casa da Rua Fresca com cruzeiro embutido no muro",
+                    "xml:lang": "pt"
+                }
+            },
+            {
+                "geo": {
+                    "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+                    "type": "literal",
                     "value": "Point(-8.588363404 41.762460029)"
                 },
                 "item": {
